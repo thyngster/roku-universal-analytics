@@ -1,4 +1,7 @@
-roku-universal-analytics
-========================
+#  Roku Universal Analytics
 
-Universal Analytics Tracking Library for Roku 
+## Overview
+
+RUA is a Universal Analytics tracking library for Roku Player
+
+## Installation
