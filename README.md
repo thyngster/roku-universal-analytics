@@ -2,7 +2,7 @@
 
 ## Overview
 This is free Univeral Analytics tracking library for Roku player.
-It allow you to track your Channel activity within Universal Analytics.
+It allows you to track your Channel activity within Universal Analytics.
 
 ## What can this library do for you
 * Event Tracking
