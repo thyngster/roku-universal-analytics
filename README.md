@@ -36,6 +36,8 @@ with a visit Scope within your Google Analytics Admin Section
 Check the demo folder for a modified "Custom Video Player Channel" example for the SDK, that sends this info to Google Analytics
 * An Event when the channel is loaded
 * An Event when the channel is closed
-* An event every time the pause/resume button is pressed
-* An event ( with a value ) when the user forwards or rewards the video
+* An Event every time the pause/resume button is pressed
+* An Event when users select the fullscreen mode
+* An Event ( with a value ) when the user forwards or rewards the video
 * A pageview when the video is loaded
+
