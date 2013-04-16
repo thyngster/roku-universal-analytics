@@ -1,12 +1,10 @@
 ' ********************************************************************
 ' ********************************************************************
 ' **
-' **  Roku Universal Analytics Tracking Library (BrightScript)
-' **
+' **  Roku Universal Analytics Tracking Library (BrightScript)' **
 ' **  v. 0.1
 ' **
 ' **  @author David Vallejo <thyngster@gmail.com> ( @thyng )
-' **
 ' **  Copyright 2013
 ' **
 ' ********************************************************************
